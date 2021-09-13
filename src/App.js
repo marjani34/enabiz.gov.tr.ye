@@ -13,9 +13,9 @@ function App() {
         <p className="note note-success">
       <img src={checkmark} className="checkmark" alt="enabizLogo"/>
           
-          The result of this test belongs to  A*** MARJANIBEN*** with Passport Number *******7018.
+          The result of this test belongs to  Y****** POUDI*** with Passport Number *******2494.
           The test result is NEGATIVE and the sampling date is 13/9/2021 11:13:00 AM.<br/>
-          It was downloaded by  A*** MARJANIBEN*** on 13.09.2021.<br/>
+          It was downloaded by  Y****** POUDI*** on 13.09.2021.<br/>
           CAN BE USED AS A DOCUMENT FOR EXIT ABROAD.<br/>
         </p>
         <div className="clearfix"></div>
